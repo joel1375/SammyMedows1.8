@@ -1,0 +1,22 @@
+img {
+  width: 100%;
+}
+
+body {
+  background-color: #b0e6ff;
+}
+
+.discord {
+  height: 150px;
+  background-image: linear-gradient(#6440a4,#f1f2f9);
+}
+
+.youtube {
+  height: 150px;
+  background-image: linear-gradient(#f1f2f9,#3b0000);
+}
+
+.tiktok {
+  height: 150px;
+  background-image: linear-gradient(#3b0000,#f1f2f9);
+}
